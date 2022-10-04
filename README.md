@@ -1,2 +1,2 @@
-# yash_awaniya
+# yash_lawaniya
 this is demo repsitory
