@@ -1,2 +1,3 @@
 # yash_lawaniya
-this is demo repsitory
+Hey! I'm Yash Lawaniya
+
